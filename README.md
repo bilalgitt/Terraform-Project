@@ -1,2 +1,2 @@
 # Terraform-Project
-Simple DevOps Project to Practice Terraform with AWS
+Simple DevOps project to Practice Terraform with AWS and create a Static website on S3
